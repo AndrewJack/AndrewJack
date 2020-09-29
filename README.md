@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Versioning React Native apps](https://blog.andrewjack.uk/versioning-react-native-apps)
 <!-- BLOG-POST-LIST:END -->
